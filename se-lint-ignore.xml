@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-4.xhtml">
+		<ignore code="y-031">
+			<line>37</line>
+			<reason>Punctuation is present, but not recognized by lint because it is contained in the quotes around the speaker.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-5.xhtml">
+		<ignore code="t-030">
+			<line>24</line>
+			<reason>C.I.D. has been modernized to CID.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-6.xhtml">
+		<ignore code="t-030">
+			<line>19</line>
+			<line>20</line>
+			<reason>C.I.D. has been modernized to CID.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-7.xhtml">
+		<ignore code="t-030">
+			<line>98</line>
+			<reason>C.I.D. has been modernized to CID.</reason>
+		</ignore>
+		<ignore code="t-032">
+			<line>98</line>
+			<reason>C.I.D. has been modernized to CID.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-15.xhtml">
+		<ignore code="s-023">
+			<line>12</line>
+			<reason>Fictional perfume name. Retaining original case</reason>
+		</ignore>
+	</file>
+	<file path="chapter-20.xhtml">
+		<ignore code="t-030">
+			<line>16</line>
+			<reason>C.I.D. has been modernized to CID.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-26.xhtml">
+		<ignore code="t-003">
+			<line>67</line>
+			<line>73</line>
+			<reason>Dialogue spans multiple paragraphs.</reason>
+		</ignore>
+		<ignore code="t-030">
+			<line>34</line>
+			<reason>B.B.C. has been modernized to BBC.</reason>
+		</ignore>
+	</file>
+	<file path="endnotes.xhtml">
+		<ignore code="m-033">
+			<reason>No annotator is listed in PG</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
